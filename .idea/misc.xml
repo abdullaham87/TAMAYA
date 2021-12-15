@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudio/Tamaya/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/AndroidStudio/Tamaya/app/src/main/res/layout/doa.xml" value="0.1" />
+        <entry key="..\:/AndroidStudio/Tamaya/app/src/main/res/layout/doa2.xml" value="0.1" />
+        <entry key="..\:/AndroidStudio/Tamaya/app/src/main/res/layout/doa_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudio/Tamaya/app/src/main/res/layout/main_maulid.xml" value="0.1" />
+        <entry key="..\:/AndroidStudio/Tamaya/app/src/main/res/layout/main_tahlil_yasin.xml" value="0.1" />
+        <entry key="..\:/AndroidStudio/Tamaya/app/src/main/res/layout/maulid.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudio/Tamaya/app/src/main/res/layout/maulid_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudio/Tamaya/app/src/main/res/layout/tahlil.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudio/Tamaya/app/src/main/res/layout/tahlil_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudio/Tamaya/app/src/main/res/layout/yasin.xml" value="0.18" />
+        <entry key="..\:/AndroidStudio/Tamaya/app/src/main/res/layout/yasin_image.xml" value="0.1" />
+        <entry key="..\:/AndroidStudio/Tamaya/app/src/main/res/layout/yasin_images.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudio/Tamaya/app/src/main/res/layout/yasin_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudio/Tamaya/app/src/main/res/layout/yasin_layout.xml" value="0.6547619047619048" />
+        <entry key="..\:/AndroidStudio/Tamaya/app/src/main/res/layout/yasin_main.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
